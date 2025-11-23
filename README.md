@@ -1,7 +1,7 @@
 
-# **CREACION DE UNA BASE DE DATOS ANALITICA**
+# **Procesamiento de datos en una infraestructura cloud**
 
-### **EVIDENCIA DE APRENDISAJE 1 y 2**
+### **EVIDENCIA DE APRENDISAJE 2**
 
 **INTEGRANTES:**
 
@@ -35,7 +35,7 @@ Debido al a esta problematica, se implementara una base de datos bien estructura
 
 **regiones:** Región geográfica (Norte, Noreste, Medio Oeste, Sudeste, Sur)
 
-🧰# **Tecnologías Utilizadas**
+🧰 **Tecnologías Utilizadas**
 
 🚀 **Databricks Community Edition**
 
