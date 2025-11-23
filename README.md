@@ -1,4 +1,41 @@
-🧰 **Tecnologías Utilizadas**
+
+# **CREACION DE UNA BASE DE DATOS ANALITICA**
+
+### **EVIDENCIA DE APRENDISAJE 1 y 2**
+
+**INTEGRANTES:**
+
+**OSCAR LUIS MARQUEZ ARRIETA**
+
+**NATALIA JADITH CASTRO OSPINO**
+
+**PREICA2502B020061**
+
+## **PROBLEMATICA**
+
+La empresa de fluido electrico EnergyCol especializada en el servicio de energia electrica a gran parte de las regiones de colombia, tanto residenciales como comerciales. Esta presentando problemas con el procesamineto de los datos de todos los clientes debido al alto tamaño de informacion que se tienen de todos los clientes.
+
+Debido al a esta problematica, se implementara una base de datos bien estructurada y organiza, que permita implementar toda la informacion que se requiera de los usuarios. Esto le brindara a la empresa una mejor organizacion y las relaciones entre el tamaño del edificio, la ocupación, la ubicación geográfica y los costos de energía.
+
+## **Dataset**
+
+**Fuente:** Kaggle: Residential and Commercial Energy Cost Dataset
+
+**Enlace:** https://www.kaggle.com/datasets/andreylss/residential-and-commercial-energy-cost-dataset
+
+# **VARIABLES RELEVANTES**
+
+**id_cliente:** Identificador único para cada cliente
+
+**tipo_cliente:** Tipo de propiedad (residencial o comercial)
+
+**costo_energía_brl:** Costo mensual de energía en moneda local
+
+**tipo_cliente:** Tipo de propiedad (residencial o comercial)
+
+**regiones:** Región geográfica (Norte, Noreste, Medio Oeste, Sudeste, Sur)
+
+🧰# **Tecnologías Utilizadas**
 
 🚀 **Databricks Community Edition**
 
