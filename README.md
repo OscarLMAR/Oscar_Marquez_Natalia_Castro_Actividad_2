@@ -80,9 +80,9 @@
 
 - /Volumes/workspace/bigdata/semana3/energy_consumption.csv
 
-📌 **esumen General del Proyecto**
+📌 **Resumen General del Proyecto**
 
-- Se implementó un pipeline completo de ingeniería de datos en Databricks
+- Se implementó un pipeline completo de big data en Databricks
 
 - Se cargó el dataset original en formato CSV hacia DBFS / Volumes
 
