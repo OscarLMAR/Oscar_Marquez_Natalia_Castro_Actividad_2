@@ -1,7 +1,7 @@
 
 # **Procesamiento de datos en una infraestructura cloud**
 
-### **EVIDENCIA DE APRENDISAJE 2**
+### **EVIDENCIA DE APRENDISAJE 1, 2 y 3**
 
 **INTEGRANTES:**
 
